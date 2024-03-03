@@ -1,4 +1,4 @@
-package com.directi.training.dip.exercise_refacto;
+package com.directi.training.dip.exercise_refacto.custom_io;
 
 import java.io.IOException;
 
